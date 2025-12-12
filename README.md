@@ -58,11 +58,11 @@ I'm always looking for opportunities to improve, collaborate, and continue learn
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Dylan_ZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Dylan_ZM&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan_ZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
