@@ -59,7 +59,6 @@ I'm always looking for opportunities to improve, collaborate, and continue learn
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramerlinj&label=Profile%20views&color=0e75b6&style=flat" alt="ramerlinj" /> </p>
-
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
