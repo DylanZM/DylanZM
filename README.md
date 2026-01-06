@@ -5,7 +5,7 @@ I'm passionate about solving problems, creating things from scratch, and constan
 I consider myself a curious, committed person, eager to add value to every project I participate in.  
 I'm always looking for opportunities to improve, collaborate, and continue learning. 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E51FFD4&width=435&lines=hello%2C+I'm+Dylan+I'm+a+student;I+like+programming+;and+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1E40AF&width=435&lines=hello%2C+I'm+Dylan+I'm+a+student;I+like+programming+;and+learning+new+things)](https://git.io/typing-svg)
 
 ---
 
@@ -58,7 +58,5 @@ I'm always looking for opportunities to improve, collaborate, and continue learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
