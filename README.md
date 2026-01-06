@@ -21,7 +21,8 @@ I'm always looking for opportunities to improve, collaborate, and continue learn
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
   width="40"
 />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  width="40"/>
 </div>
 
 ---
