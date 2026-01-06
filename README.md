@@ -5,9 +5,7 @@ I'm passionate about solving problems, creating things from scratch, and constan
 I consider myself a curious, committed person, eager to add value to every project I participate in.  
 I'm always looking for opportunities to improve, collaborate, and continue learning. 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1E40AF&width=435&lines=hello%2C+I'm+Dylan+I'm+a+student;I+like+programming+;and+learning+new+things)](https://git.io/typing-svg)
 
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dl_zm) 
