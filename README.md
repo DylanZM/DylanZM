@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 - Hi, I'm Dylan Zarzuela 🗻
 - Junior Programmer, currently growing in the world of web development 🎓
