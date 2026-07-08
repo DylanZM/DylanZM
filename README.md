@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dylan! 👋<br><br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dylan Zarzuela</h1>
 I'm a Junior Programmer eager to learn and grow in the world of web development. 💻  
 I'm passionate about solving problems, creating things from scratch, and constantly improving myself as a developer.  
 I consider myself a curious, committed person, eager to add value to every project I participate in.  
