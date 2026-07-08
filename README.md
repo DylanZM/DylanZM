@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
 
-### 💫 About Me:
-
-<div><img align="left" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></div>
+### About Me: <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" align="left">
 
 - Hi, I'm Dylan Zarzuela 🗻
 - Junior Programmer, currently growing in the world of web development 🎓
