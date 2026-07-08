@@ -1,6 +1,5 @@
 # 💫 About Me:
-<span align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dylan Zarzuela</span>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
 
 I'm a Junior Programmer eager to learn and grow in the world of web development. 💻  
 I'm passionate about solving problems, creating things from scratch, and constantly improving myself as a developer.  
