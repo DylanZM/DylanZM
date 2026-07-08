@@ -2,14 +2,12 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- Hi, I'm Dylan Zarzuela🗻
+- Hi, I'm Dylan Zarzuela 🗻
 - Junior Programmer, currently growing in the world of web development 🎓
 - Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro 👨‍💻
 - Interested in TUI (Terminal User Interface) applications 🖥️
 - Interested in problem-solving, clean code, and building things from scratch 🚀
 - Always learning and looking for new opportunities to collaborate 🌱
-- Welcome to my GitHub 🍧
-
 
 # 💻 Tech Stack:
 
