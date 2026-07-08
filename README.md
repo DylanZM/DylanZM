@@ -2,12 +2,12 @@
 
 ### About Me: <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" align="left">
 
-- Hi, I'm Dylan Zarzuela 🗻
-- Junior Programmer, currently growing in the world of web development 🎓
-- Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro 👨‍💻
-- Interested in TUI (Terminal User Interface) applications 🖥️
-- Interested in problem-solving, clean code, and building things from scratch 🚀
-- Always learning and looking for new opportunities to collaborate 🌱
+- 🗻 Hi, I'm Dylan Zarzuela
+- 🎓 Junior Programmer, currently growing in the world of web development
+- 👨‍💻 Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro
+- 🖥️ Interested in TUI (Terminal User Interface) applications 🖥️
+- 🚀 Interested in problem-solving, clean code, and building things from scratch 🚀
+- 🌱 Always learning and looking for new opportunities to collaborate 🌱
 
 # 💻 Tech Stack:
 
