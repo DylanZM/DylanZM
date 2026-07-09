@@ -1,13 +1,15 @@
-##  Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
-### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.gif" width="70" />
+### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 - 🎓 Junior Programmer, currently growing in the world of web development
 - 👨‍💻 Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro
 - 🖥️ Interested in TUI (Terminal User Interface) applications
 - 🚀 Interested in problem-solving, clean code, and building things from scratch
 - 🌱 Always learning and looking for new opportunities to collaborate
+
+<br clear="both">
 
 # 💻 Tech Stack:
 
@@ -44,21 +46,27 @@
 
 </div>
 
+---
 
-### <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture> GitHub Stats:
+### <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"></picture> GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
+---
+
+### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=DylanZM&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
+### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 
 ![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=DylanZM&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
+### Github 贡献图 <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 
 [![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanZM&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ## 👥 Profiles Visit
 
