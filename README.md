@@ -8,6 +8,11 @@
 ### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="[https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRyMmpnYm5nMTNwa2hrMzk4bGwwcDBldWNnYmVtb2k3aHJ2ZG9pbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)" width="300" height="auto" /></div>
+
+
+
+
 
 - 🎓 Junior Programmer, currently growing in the world of web development
 - 👨‍💻 Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro
