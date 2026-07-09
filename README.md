@@ -26,10 +26,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
- 👥 Profiles Visit
+## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
 
-<img src="https://profile-counter.deno.dev/DylanZM/count.svg" alt="Visitor's Count" />
 
 ![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
