@@ -65,8 +65,10 @@
 
 [![DylanZM github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanZM&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 ## 👥 Profiles Visit
 
 <img src="https://profile-counter.deno.dev/DylanZM/count.svg" alt="Visitor's Count" />
+
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
