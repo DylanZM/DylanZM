@@ -71,4 +71,4 @@
 <img src="https://profile-counter.deno.dev/DylanZM/count.svg" alt="Visitor's Count" />
 
 
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
