@@ -9,6 +9,8 @@
 - 🚀 Interested in problem-solving, clean code, and building things from scratch
 - 🌱 Always learning and looking for new opportunities to collaborate
 
+<br clear="both">
+
 # 💻 Tech Stack:
 
 <div align="left">
