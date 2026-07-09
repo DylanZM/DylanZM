@@ -54,8 +54,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
 
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=DylanZM&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
-
 
 
 ## 👥 Profiles Visit
