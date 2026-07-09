@@ -18,6 +18,7 @@
 <div align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,typescript,cs,arduino,npm,pnpm,bun,react,tailwind,nextjs,vite,astro,vercel,go,supabase,postgres,fastapi,flask,figma,linux,arch,neovim,bash,vscode,git,github,md,)](https://skillicons.dev)
+
 </div>
 
 <h2><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"> GitHub Stats:</h2>
@@ -26,8 +27,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
-## Profile visits
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Profile visits</h2>
 
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)
 
 ![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
