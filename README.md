@@ -47,7 +47,7 @@
 </div>
 
 
-### <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="50" alt="Statistics"></picture> GitHub Stats:
+### <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="40" alt="Statistics"></picture> GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
