@@ -1,9 +1,4 @@
-<div align="center" style="margin-top: 10px;">
-
 ## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
-
-</div>
-
 ### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 - 🗻 Hi, I'm Dylan Zarzuela
