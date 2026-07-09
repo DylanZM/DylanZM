@@ -1,4 +1,4 @@
-<div align="center" style="margin-top: -20px;">
+<div align="center" style="margin-top: -5px;">
 
 ## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
 
