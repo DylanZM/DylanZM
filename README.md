@@ -8,8 +8,8 @@
 ### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 <!-- <div><img align="right" alt="GIF" src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="300" height="auto" /></div> -->
-<div><img align="right" alt="GIF" src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="300" height="auto" /></div>
-
+<!-- <div><img align="right" alt="GIF" src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="300" height="auto" /></div> -->
+<div><img align="right" alt="GIF" src="https://media.giphy.com/media/d3tWybTneNwji5YVTs/giphy.gif" width="300" height="auto" /></div>
 
 
 
