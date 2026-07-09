@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-# 💻 Tech Stack:
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack</h2>
 
 <div align="left">
 
