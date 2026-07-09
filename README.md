@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<div align="center">
 
-##  Hi, I'm Dylan Zarzuela <img src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.gif" width="70" />
+# Hi, I'm Dylan Zarzuela <img src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.gif" width="70" />
+
+</div>
+
 ### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="300" height="auto" /></div>
