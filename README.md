@@ -15,7 +15,7 @@
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,tailwind,nextjs,)](https://skillicons.dev)
 </div>
 
 <h2><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"> GitHub Stats:</h2>
