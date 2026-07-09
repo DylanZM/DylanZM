@@ -46,19 +46,14 @@
 
 </div>
 
-
-### <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="40" alt="Statistics"></picture>   <h2>GitHub Stats:</h2>
+<h2><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"> GitHub Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
-
-
-
 ## 👥 Profiles Visit
 
 <img src="https://profile-counter.deno.dev/DylanZM/count.svg" alt="Visitor's Count" />
-
 
 ![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
