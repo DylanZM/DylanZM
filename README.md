@@ -15,7 +15,7 @@
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,typescript,npm,pnpm,react,tailwind,nextjs,vite,astro,vercel,go,supabase,postgres,fastapi,flask,figma,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,typescript,npm,pnpm,react,tailwind,nextjs,vite,astro,vercel,go,supabase,postgres,fastapi,flask,figma,linux,arch,neovim,vscode)](https://skillicons.dev)
 </div>
 
 <h2><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"> GitHub Stats:</h2>
