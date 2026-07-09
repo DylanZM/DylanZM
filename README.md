@@ -29,6 +29,5 @@
 ## 👥 Profiles Visit
 
 <img src="https://profile-counter.deno.dev/DylanZM/count.svg" alt="Visitor's Count" />
-![](https://github-readme-stats.vercel.app/api?username=DylanZM&show_icons=true&theme=radical)
 
 ![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
