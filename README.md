@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Dylan Zarzuela <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="70" />
 ### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<div><img align="right" alt="GIF" src="[[[https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp](https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGZsbGRuZW1pM3Y5YzU2c2phbnhjdjhnOWF0NnBxODdvN2syc2tmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.webp)](https://giphy.com/gifs/AllianceDAO-computer-alliance-dao-S9d8XB557e8phGLBVS)](https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGZsbGRuZW1pM3Y5YzU2c2phbnhjdjhnOWF0NnBxODdvN2syc2tmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.webp)" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGZsbGRuZW1pM3Y5YzU2c2phbnhjdjhnOWF0NnBxODdvN2syc2tmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.webp" width="300" height="auto" /></div>
 
 - 🎓 Junior Programmer, currently growing in the world of web development
 - 👨‍💻 Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro
-- 🖥️ Interested in TUI (Terminal User Interface) applications 🖥️
-- 🚀 Interested in problem-solving, clean code, and building things from scratch 
+- 🖥️ Interested in TUI (Terminal User Interface) applications
+- 🚀 Interested in problem-solving, clean code, and building things from scratch
 - 🌱 Always learning and looking for new opportunities to collaborate
 
 # 💻 Tech Stack:
