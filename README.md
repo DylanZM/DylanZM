@@ -54,16 +54,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
 
 
-
-
-
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=DylanZM&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
-
-
-![DylanZM github stats](https://github-vercel-deployment-seven.vercel.app/api?username=DylanZM&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
-[![DylanZM github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanZM&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 👥 Profiles Visit
