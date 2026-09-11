@@ -1,44 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 <div align="center">
+  <h1>Hi, I'm Dylan Zarzuela 👋</h1>
+  <p><strong>Junior Software Developer | Web Development & TUI Enthusiast</strong></p>
 
-# Hi, I'm Dylan Zarzuela <img src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.gif" width="70" />
-
+  <a href="https://github.com/DylanZM">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Exploring+TUI+%26+CLI+tools;Learning+every+single+day" alt="Typing SVG" />
+  </a>
 </div>
 
-### About Me: <picture style="margin-right: 10px;"><img src="https://github.com/DylanZM/DylanZM/raw/main/about_me.gif" width="40" alt="about me"></picture>
+<br />
 
-<div><img align="right" alt="GIF" src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="300" height="auto" /></div>
-<!-- <div><img align="right" alt="GIF" src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="300" height="auto" /></div> -->
-<!-- <div><img align="right" alt="GIF" src="https://media.giphy.com/media/d3tWybTneNwji5YVTs/giphy.gif" width="300" height="auto" /></div> -->
-<!-- <div><img align="right" alt="GIF" src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="300" height="auto" /></div> -->
-<!-- <div><img align="right" alt="GIF" src="https://media.giphy.com/media/1mckwb7WzC66FCP5Tp/giphy.gif" width="300" height="auto" /></div> -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>📌 About Me</h2>
+      <ul>
+        <li>🎓 <b>Junior Developer</b> focused on modern web development and clean architecture.</li>
+        <li>👨‍💻 Strong experience with <b>TypeScript, React, Next.js, Astro</b> and backend with <b>Python/Node.js</b>.</li>
+        <li>🖥️ Passionate about <b>TUI (Terminal User Interfaces)</b>, command-line tooling, and custom Linux setups.</li>
+        <li>🚀 Focused on problem-solving, clean code principles, and building projects from scratch.</li>
+        <li>🌱 Continuously learning, refactoring, and looking for open-source collaboration.</li>
+      </ul>
+    </td>
+    <td valign="center" width="40%" align="center">
+      <img src="https://github.com/DylanZM/DylanZM/raw/main/cartoon.webp" width="280" alt="Dylan's Avatar / Coding Illustration" />
+    </td>
+  </tr>
+</table>
 
+---
 
-
-- 🎓 Junior Programmer, currently growing in the world of web development
-- 👨‍💻 Some of the technologies I enjoy working with include JavaScript, TypeScript, Python, React, Next.js and Astro
-- 🖥️ Interested in TUI (Terminal User Interface) applications
-- 🚀 Interested in problem-solving, clean code, and building things from scratch
-- 🌱 Always learning and looking for new opportunities to collaborate
-
-<br clear="both">
-
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack</h2>
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <div align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,typescript,cs,arduino,npm,pnpm,bun,react,tailwind,nextjs,vite,astro,vercel,go,supabase,postgres,fastapi,flask,figma,linux,arch,neovim,bash,vscode,git,github,md,)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go,cs,react,nextjs,astro,tailwind,nodejs,fastapi,flask,supabase,postgres,arduino,arch,linux,neovim,bash,git,github,vscode,vercel,bun,pnpm,figma" />
+  </a>
 </div>
 
-<h2><img src="https://github.com/DylanZM/DylanZM/raw/main/Statistics.gif" width="30" alt="Statistics"> GitHub Stats:</h2>
+---
 
-![](https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=false)
+<h2>📊 GitHub Analytics</h2>
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Profile visits</h2>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DylanZM&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanZM&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&layout=compact" />
+</div>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)
+<br />
 
-![footer_wave](https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanZM&theme=catppuccin_mocha&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <p>👀 <strong>Profile Views</strong></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DylanZM.DylanZM&color=7B68EE" alt="Visitor count" />
+</div>
+
+<br />
+
+<img width="100%" src="https://github.com/DylanZm/DylanZM/raw/main/footer_wave.svg" />
